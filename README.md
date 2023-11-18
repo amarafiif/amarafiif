@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Muhammad Ammar Afif
 - 👀 I’m interested in PHP Framework Laravel and ReactJS
-- 🌱 I’m currently learning Laravel and ReactJS
+- 🌱 I’m currently learning Laravel and NodeJS
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me.!!
 
