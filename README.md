@@ -22,7 +22,7 @@ Saya juga memiliki beberapa proyek yang dapat Anda temukan di _Coming Soon_.
 Jika Anda ingin berbicara lebih lanjut atau berkolaborasi, jangan ragu untuk menghubungi saya:
 
 - Email: [amarafif230@gmail.com](mailto:amarafif230@email.com)
-- LinkedIn: [Profil LinkedIn]([link-ke-linkedin](https://www.linkedin.com/in/muhammad-ammar-afif-2b9741218/))
+- LinkedIn: [Profil LinkedIn](https://www.linkedin.com/in/muhammad-ammar-afif-2b9741218)
 
 Terima kasih sudah mengunjungi profil GitHub saya! Semoga Anda menemukan hal yang menarik di sini.
 
