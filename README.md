@@ -40,18 +40,20 @@ Hey there! I'm a freelance web developer and a student juggling both worlds with
 ![Muhammad Ammar Afif Github Stats](https://github-readme-stats.vercel.app/api?username=amarafiif&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&card_width=1000px)
 ![Muhammad Ammar Afif Github Stats](https://streak-stats.demolab.com?user=amarafiif&theme=vue-dark&card_width=1000&hide_border=true)
 
-## Portfolio 💼
-
 
 ## Get in Touch 📫
 
 I'm always open to new opportunities and collaborations. Feel free to reach out:
-[<a href="mailto:amarafif230@gmail.com"><img src="path/to/your/email-icon.svg" alt="Email" width="24" height="24"></a>]
-[<a href="https://www.linkedin.com/in/muhammad-ammar-afif-2b9741218"><img src="path/to/your/linkedin-icon.svg" alt="LinkedIn" width="24" height="24"></a>]
+
+<a href="mailto:amarafif230@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Email" width="24" height="24"></a>
+<a href="https://www.linkedin.com/in/muhammad-ammar-afif-2b9741218"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" width="24" height="24"></a>
 
 
 Thanks for visiting my GitHub profile!
-
+<iframe
+  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
+  style="width:100%; height:300px;"
+></iframe>
 
 <!---
 amarafiif/amarafiif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
