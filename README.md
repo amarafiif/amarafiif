@@ -49,11 +49,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out:
 <a href="https://www.linkedin.com/in/muhammad-ammar-afif-2b9741218"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" width="24" height="24"></a>
 
 
-Thanks for visiting my GitHub profile!
-<iframe
-  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
-  style="width:100%; height:300px;"
-></iframe>
+### Thanks for visiting my GitHub profile!
 
 <!---
 amarafiif/amarafiif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
